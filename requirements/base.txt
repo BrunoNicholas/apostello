@@ -17,5 +17,5 @@ pygal==2.4.0
 python-dotenv==0.7.1
 redis==2.10.6
 requests==2.18.4
-twilio==6.0.0
+twilio==6.8.2
 whitenoise==3.3.1
